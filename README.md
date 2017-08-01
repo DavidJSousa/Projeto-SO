@@ -5,7 +5,6 @@ This project was to emulate a network of nodes that process different informatio
 
 **-> Authors:**
 
-
 Carlos Pedrosa
 
 David Sousa
